@@ -1,6 +1,6 @@
-#[path="../Day3/day3.rs"]
-mod day3;
+#[path="../Day5/day5.rs"]
+mod day5;
 
 fn main() {
-    day3::run();
+    day5::run();
 }
